@@ -1,6 +1,6 @@
-﻿using AOC2020.Models;
+﻿using AOC;
+using AOC2020.Models;
 using AOC2020.Parsers;
-using AOC2020.Utility;
 using System;
 using System.Collections.Generic;
 using System.Text;

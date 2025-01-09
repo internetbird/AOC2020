@@ -1,4 +1,4 @@
-﻿using AOC2020.Utility;
+﻿using AOC;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,4 +1,5 @@
-﻿using AOC2020.PuzzleSolvers;
+﻿using AOC;
+using AOC2020.PuzzleSolvers;
 using System;
 
 namespace AOC2020
